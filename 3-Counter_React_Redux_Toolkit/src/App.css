@@ -1,0 +1,8 @@
+.control-row {
+  margin-top: 10px;
+}
+.number-input {
+  max-width: 150px;
+  font-size: 14px;
+  padding: 5px 10px;
+}
